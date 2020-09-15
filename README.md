@@ -10,6 +10,12 @@ has a great time at the party.
 
 ## Purpose
 
+To redefine ones purpose is to collectively
+anihilate all prior engagements.
+
 ## Deployment
+
+Today finally we can discuss without any
+interference the main aspects of deployment.
 
 ## How To Contribute
