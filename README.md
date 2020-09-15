@@ -20,6 +20,9 @@ interference the main aspects of deployment.
 
 ## How To Contribute
 
+Please fork and add code as needed. Remeber: Less
+is more my friends - ha ha...
+
 ### Copyright
 
 (C)2020 Rave-On Productions
