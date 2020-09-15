@@ -19,3 +19,7 @@ Today finally we can discuss without any
 interference the main aspects of deployment.
 
 ## How To Contribute
+
+### Copyright
+
+(C)2020 Rave-On Productions
